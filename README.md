@@ -1,2 +1,2 @@
-# ProbaReact
+# Proba-React
 warnings
