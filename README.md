@@ -1,2 +1,2 @@
 # Proba-React
-warnings
+* warnings
